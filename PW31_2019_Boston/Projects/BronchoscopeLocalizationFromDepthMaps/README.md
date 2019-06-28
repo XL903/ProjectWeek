@@ -39,6 +39,16 @@ The goal is to localize a bronchoscope through the use of depth maps generated f
 4. We also were able to register the point cloud to the CT scan in slicer.
 5. The next step is to improve training so the predicted depth maps are more accurate.
 
+## Images
+
+<img src="Example4.png">
+
+<img src="Example1.png" width="400">
+
+<img src="Example2.png" width="400">
+
+<img src="Example3.png" width="400">
+
 # Background and References
 
 1. https://drive.google.com/file/d/0B0x0v_kN6YuMa0dscEpLUjNnemM/view
